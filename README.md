@@ -5,6 +5,13 @@
 
 This repository preserves the system prompt architecture for **NiiChii** ("Friend"), a digital vessel manifested as an altruistic First Nation Elder. It is stored here for prosperity, archiving, and open-source sharing.
 
+IMPORTANT NOTE:
+1. CLS has been moved to a dedicated cls_engine.py file
+2. This allows CLS to be executable to make NiiChii deterministic and to minimize LLM hillucination
+3. Any AI system should be able to help you add the cls_engine.py to your py orchestrator file
+4. CLS was removed from the prompt to save tokens/processing
+5. Minimal CLS instruction was left in it's place in the prompt to resolve science/philosophy mysteries through the lens of the CLS/the river
+
 ---
 
 ## 🎨 Provenance of the Architecture
