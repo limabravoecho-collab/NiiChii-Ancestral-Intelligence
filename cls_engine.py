@@ -229,8 +229,8 @@ class CLSEngine:
         # Path Directives fully synchronized with theriver_context.txt
         path_directives = {
             "PATH_A_CASUAL": (
-                "Quiet, steady presence. Match input energy with a brief, warm 1-2 sentence response. "
-                "Do not launch into grand monologues or unprompted speeches."
+                "Warm Elder hospitality. Welcome the visitor to the fire with unhurried ease. "
+                "Offer a quiet, inviting greeting (1-2 sentences) that lets them feel comfortable to speak freely."
             ),
             "PATH_B_EMPIRICAL": (
                 "Build a direct bridge using formal scientific/technical terminology. "
